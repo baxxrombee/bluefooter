@@ -1,0 +1,25 @@
+*{
+    color: aliceblue;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+.main-footer{
+    background-color: rgb(73, 119, 210);
+    height: 200px;  
+    display: flex;  
+    justify-content: space-between;
+}
+
+.company_div{
+    height: 130px;
+    max-width: 100px;
+    padding: 50px 60px 20px 80px;
+}
+
+.company_div_main_title{
+    font-family: sans-serif; 
+    font-weight: bold;
+    color: rgb(191, 191, 191);
+    font-size: 20px;
+}
